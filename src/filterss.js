@@ -98,7 +98,7 @@ function rss( data, rules, match )
 				return false;
 			}
 
-			let didMatch = matchElement( element, rule );
+			didMatch = matchElement( element, rule );
 
 			if( match === 'any' )
 			{
