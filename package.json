@@ -1,12 +1,10 @@
 {
   "name": "filterss",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple RSS filter",
+  "author": "Ashur Cabrera",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "scripts": {},
   "license": "ISC",
   "dependencies": {
     "xml-js": "^1.6.11"
